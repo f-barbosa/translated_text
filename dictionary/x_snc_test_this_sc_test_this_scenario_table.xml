@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="test_this_scenario Table" max_length="40" name="x_snc_test_this_sc_test_this_scenario_table" type="collection"/>
+</database>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test_this_scenario">3b1e1c83dbc35300a5dc5e45dc961973</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>test_this_scenario Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_test_this_sc_test_this_scenario_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_test_this_sc.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>felipe.barbosa@snc</sys_created_by>
+        <sys_created_on>2018-07-06 11:26:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c2e5c83dbc35300a5dc5e45dc961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_this_scenario Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test_this_scenario" source="x_snc_test_this_sc">ff1e1883dbc35300a5dc5e45dc9619d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test_this_scenario">ff1e1883dbc35300a5dc5e45dc9619d4</sys_scope>
+        <sys_update_name>sys_app_module_5c2e5c83dbc35300a5dc5e45dc961907</sys_update_name>
+        <sys_updated_by>felipe.barbosa@snc</sys_updated_by>
+        <sys_updated_on>2018-07-06 11:26:46</sys_updated_on>
+        <timeline_page/>
+        <title>test_this_scenario Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
